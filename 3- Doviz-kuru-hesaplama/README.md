@@ -1,0 +1,1 @@
+apiRequest.js dosyasındaki apikey kısmına https://api.freecurrencyapi.com sitesinden alınan api anahtarı girilmesi gerekir.
